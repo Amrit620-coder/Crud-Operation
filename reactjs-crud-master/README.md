@@ -83,62 +83,10 @@ npm install
 npm start
 ```
 
-### Testing
-
-You can also run your tests using:
-
-```CLI
-yarn test
-```
-
-It´s also possible to generate the code coverage of your code. Jest will generate a HTML file with all information from your tests. To do this run the command:
-
-```CLI
-yarn test:coverage
-```
-
-### Production build ready
-
-You can generate an optimized distribution bundle. To do this run the command:
-
-```CLI
-yarn build
-```
-OR
-
-```CLI
-npm run build
-```
-
-It´s also possible to check the size and content of your bundled file. To do this run the command:
-
-```CLI
-yarn analyze
-```
-OR
-
-```CLI
-npm run analyze
-```
-That's all for Reactjs frontend Part
-
-### Rails Part
-
-To do CRUD operation, you also need backend.
-You can use any backend, you like.
-
-OR, You can clone this ready made ruby on rails backend.
-
-```CLI
-git clone https://github.com/cloud-github/rails_api_only.git
-```
-
-Follow further instructions using this link.  https://github.com/cloud-github/rails_api_only.git
-
-If you like the project, please don't forget to give a star. Thanks in advance.
 
 
-## Contributing
 
-You are heartly welcome to make a pull request.
+
+
+
 
